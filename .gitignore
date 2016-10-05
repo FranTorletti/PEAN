@@ -1,0 +1,10 @@
+#dbs
+_*
+pouch__all_dbs__
+db_*
+
+#dependences
+node_modules/
+
+#logs
+log.txt
