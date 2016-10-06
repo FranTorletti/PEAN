@@ -21,9 +21,9 @@ Make sure you have installed all of the following prerequisites on your developm
 $ npm install -g bower
 ```
 
-## Getting Started
+## Installation
 
-Clone proyect
+git clone this repository
 ```bash
 $ git clone https://github.com/FranTorletti/PEAN.git
 ```
@@ -32,8 +32,12 @@ Install dependences
 ```bash
 $ npm install
 ```
+
+## Running
+
 Run
 ```bash
 $ node app.js
 ```
 
+Visit your app at http://localhost:3000.
